@@ -19,7 +19,7 @@ disqus_username: oldmenplus
 show_hero: true
 menu:
   - title: Home
-    url: /oldmenplus.xyz
+    url: oldmenplus.xyz
   - title: About
     url: /about
   - title: Contact
