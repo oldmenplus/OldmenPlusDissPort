@@ -1,5 +1,5 @@
 # Site Settings
-name: OldmenPlus
+name: OldmenPlus's Port
 title: OldmenPlus's Port | OP的吐槽港口
 description: 会一点点PS和代码的送餐骑士，疯狂吐槽的强迫症收集控 (´･Д･)」
 tags:
@@ -15,7 +15,7 @@ tags:
   - 软件
   - 设计
 email: oldmenplus@qq.com
-disqus_username: oldmenplus@gmail.com
+disqus_username: OldmenPlus
 show_hero: true
 menu:
   - title: Home
