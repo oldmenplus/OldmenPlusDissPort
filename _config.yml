@@ -19,7 +19,7 @@ disqus_username: oldmenplus
 show_hero: true
 menu:
   - title: Home
-    url: https://oldmenplus.xyz/
+    url: /
   - title: About
     url: /about
   - title: Contact
@@ -36,7 +36,6 @@ twitter_username: oldmenplus
 instagram_username: oldmenplus
 # linkedin_username: linkedin_username
 # medium_username: medium_username
-weibo_username: oldmenplus
 
 
 # Posts Settings
