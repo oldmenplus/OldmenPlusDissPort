@@ -1,15 +1,21 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: OldmenPlus
+title: OldmenPlus's Port
+description: 会一点点PS和代码的送餐骑士，疯狂吐槽的强迫症收集控 (´･Д･)」
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - OldmenPlus
+  - OP
+  - 吐槽
+  - 电脑
+  - 数码
+  - 游戏
+  - 动漫
+  - 日记
+  - 涩图
+  - 软件
+  - 设计
+email: oldmenplus@qq.com
+disqus_username: oldmenplus
 show_hero: true
 menu:
   - title: Home
@@ -24,12 +30,13 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: oldmenplus
+facebook_username: oldmenplus
+twitter_username: oldmenplus
+instagram_username: oldmenplus
+# linkedin_username: linkedin_username
+# medium_username: medium_username
+weibo_username: oldmenplus
 
 
 # Posts Settings
@@ -40,10 +47,10 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
-language: "en"
+baseurl: "oldmenplus.xyz" # the subpath of your site, e.g. /blog
+url: "oldmenplus.xyz" # the base hostname & protocol for your site
+google_analytics: "UA-132320783-1"
+language: "cn"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
