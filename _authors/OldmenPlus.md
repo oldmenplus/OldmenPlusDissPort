@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/profileop.png
 name: oldmenplus
 display_name: OldmenPlus
-position: Boss
+position: Chief Editor
 bio: aaaaaaaaaaaaa
 github_username: oldmenplus
 facebook_username: oldmenplus
