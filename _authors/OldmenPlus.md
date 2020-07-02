@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/profileop.png
 name: oldmenplus
 display_name: OldmenPlus
-position: Chief Editor
+position: Boss
 bio: 会一点点PS和代码的送餐骑士，疯狂吐槽的强迫症收集控 (´･Д･)」
 github_username: oldmenplus
 facebook_username: oldmenplus
