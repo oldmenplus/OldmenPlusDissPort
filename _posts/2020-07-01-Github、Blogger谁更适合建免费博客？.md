@@ -15,7 +15,7 @@ tags:
   - 博客
   - 网络
   - 建站
-author: thiagorossener
+author: oldmenplus
 paginate: true
 ---
 Github、Blogger都可以免费建博客，谁更快乐呢？Github、Blogger相信大家都很熟悉，但是Github、Blogger谁建博客更快乐呢？下面就让小编带大家一起了解吧......
