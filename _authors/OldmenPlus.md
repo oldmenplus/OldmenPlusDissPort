@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profileop.png
 name: oldmenplus
 display_name: OldmenPlus
 position: Boss
-bio: 会一点点PS和代码的送餐骑士，疯狂吐槽的强迫症收集控 (´･Д･)」
+bio: aaaaaaaaaaaaa
 github_username: oldmenplus
 facebook_username: oldmenplus
 twitter_username: oldmenplus
