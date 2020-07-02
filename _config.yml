@@ -23,6 +23,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Tags
+    url: /tags.html
   - title: About
     url: /about
   - title: Contact
