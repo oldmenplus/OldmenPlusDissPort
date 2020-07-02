@@ -1,5 +1,5 @@
 # Site Settings
-name: OldmenPlus's Port
+name: OldmenPlus
 title: OldmenPlus's Port | OP的吐槽港口
 description: 会一点点PS和代码的送餐骑士，疯狂吐槽的强迫症收集控 (´･Д･)」
 tags:
@@ -46,7 +46,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "oldmenplus.xyz" # the base hostname & protocol for your site
 google_analytics: "UA-132320783-1"
 language: "cn"
 categories_folder: category
