@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: https://i.loli.net/2020/06/28/896yGoMPjkBQ5gC.jpg
 name: thiagorossener
 display_name: Thiago Rossener
 position: Chief Editor
