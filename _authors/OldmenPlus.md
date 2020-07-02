@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profileop.png
+photo: /assets/img/uploads/profile.png
 name: oldmenplus
 display_name: OldmenPlus
 position: Chief Editor
