@@ -6,9 +6,9 @@ subtitle: 'Github、Blogger都可以免费建博客，谁更快乐呢？Github�
 description: >-
   Github、Blogger都可以免费建博客，谁更快乐呢？Github、Blogger相信大家都很熟悉，但是Github、Blogger谁建博客更快乐呢？下面就让小编带大家一起了解吧......
 image: >-
-  https://i.loli.net/2020/07/01/iUMbB7mNqy2ztpL.jpg
+  https://i.loli.net/2020/07/07/hJ94PKpVNYXu3dZ.jpg
 optimized_image: >-
-  https://i.loli.net/2020/07/01/iUMbB7mNqy2ztpL.jpg
+  https://i.loli.net/2020/07/07/hJ94PKpVNYXu3dZ.jpg
 category: blog
 tags:
   - 简评
