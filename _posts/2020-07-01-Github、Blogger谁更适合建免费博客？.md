@@ -11,7 +11,7 @@ optimized_image: >-
   https://i.loli.net/2020/07/07/hJ94PKpVNYXu3dZ.jpg
 category: blog
 tags:
-  - 简评
+  - 测评
   - 博客
   - 网络
   - 建站
