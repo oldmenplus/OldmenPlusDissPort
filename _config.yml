@@ -29,8 +29,6 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Links
-    url: /Links
   - title: Feed
     url: /feed.xml
 
