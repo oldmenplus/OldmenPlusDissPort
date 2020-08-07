@@ -55,7 +55,7 @@ two_columns_layout: true
 baseurl: "https://oldmenplus.xyz/blog" # the subpath of your site, e.g. /blog
 url: "https://oldmenplus.xyz" # the base hostname & protocol for your site
 google_analytics: "UA-132320783-1"
-language: "en"
+language: "cn"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 
