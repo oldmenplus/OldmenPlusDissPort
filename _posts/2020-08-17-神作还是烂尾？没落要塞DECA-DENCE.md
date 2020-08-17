@@ -1,10 +1,10 @@
 ---
 date: 2020-08-17T17:55:35.000Z
 layout: post
-title: PUBG观望了半个月终于又能玩得快了啦
-subtitle: 'PUBG自从上个月的打折活动开始，人类就多了起来，观察了大半个月后，普通模式下的人类终于变少了，又可以愉快的虐AI'
+title: 神作还是烂尾？没落要塞DECA-DENCE
+subtitle: '学的时候有个家政课，我记得一个月一次的样子，也就是做做样子学做家务，很敷衍的。'
 description: >-
-  PUBG自从上个月的打折活动开始，人类就多了起来，观察了大半个月后，普通模式下的人类终于变少了，又可以愉快的虐AI
+  学的时候有个家政课，我记得一个月一次的样子，也就是做做样子学做家务，很敷衍的。
 image: >-
   https://i.loli.net/2020/08/17/mVtRJBOWd5yQuHs.jpg
 optimized_image: >-
