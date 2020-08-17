@@ -9,7 +9,7 @@ image: >-
   https://i.loli.net/2020/07/07/hJ94PKpVNYXu3dZ.jpg
 optimized_image: >-
   https://i.loli.net/2020/07/07/hJ94PKpVNYXu3dZ.jpg
-category: blog
+category: 博客
 tags:
   - 测评
   - 博客
